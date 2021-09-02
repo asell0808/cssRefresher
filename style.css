@@ -1,27 +1,39 @@
+*{
+    text-align: center;
+}
+
 body{
     color: white;
     margin: 0px auto;
-    background-image: url(images/clark-tibbs-oqStl2L5oxI-unsplash.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
     background-color: black;
 }
+
 h2{
+    padding: 10px;
     text-align: center;
     border: 2px solid grey;
     margin: 20px;
+    border-radius: 10px;
 }
+
 a{
     margin: 20px;
-    text-align: center;
     color: white;
     text-decoration: none;
 }
+
 p{
     text-align: center;
     margin: 20px;
+    border-radius: 10px;
 }
+
 li{
     list-style: none;
     display: inline-block;
+}
+
+.webtext{
+    padding: 10px;
+    border: 2px solid grey
 }
