@@ -10,7 +10,7 @@ body{
 }
 
 h2{
-    padding: 10px;
+    padding: 20px;
     text-align: center;
     border: 2px solid grey;
     margin: 20px;
@@ -19,16 +19,27 @@ h2{
 }
 
 a{
-    margin: 20px;
+    padding: 40px;
+    font-size: 120%;
     color: white;
     text-decoration: none;
 }
 
 p{
     text-align: center;
-    margin: 20px;
+    margin: 40px;
     border-radius: 10px;
     line-height: 30px;
+}
+
+.navA{
+    margin: 40px;
+    padding: 40px;
+}
+
+ul{
+    margin: 0px auto;
+    padding: 0px;
 }
 
 li{
@@ -37,6 +48,6 @@ li{
 }
 
 .webtext{
-    padding: 10px;
+    padding: 20px;
     border: 2px solid grey
 }
